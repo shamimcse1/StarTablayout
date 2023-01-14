@@ -69,7 +69,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
                 groupId = 'com.github.shamimcse1'
-                artifactId = 'star-tab-view-compose'
+                artifactId = 'starTabLayout-compose'
                 version = '1.0.0'
             }
         }
