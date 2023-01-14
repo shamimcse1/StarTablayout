@@ -69,6 +69,10 @@ fun TabItemTest(item: String) {
     }
 }
 ```
+<h1 align="center">Screenshot</h1>
+<br/>
+<img src="https://github.com/shamimcse1/TabLayoutSample/blob/master/test.png"  width="200">
+
 
 ## License
 ```
