@@ -11,7 +11,7 @@ An efficient TabLayout library implemented in Jetpack Compose 🚀
 ## Anatomy
 
 1. StarTablayout
-2. tabIndicatorColor (Optional, default value: blue)
+2. TabIndicatorColor (Optional, default value: blue)
 3. StarTabItem
 4. StarTabItem title
 
